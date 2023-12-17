@@ -1,7 +1,25 @@
 # Quantium-Virtual-Internship-Task-2
 ## Presented and Analyze by- Saddam Ansari @Aspiring Data Analyst [Linkeldin](https://www.linkedin.com/in/saddam-ansari-dataanalyst)
+## Live Dashboard at novypro [Novypro_Link](www.novypro.com)
+
+## Table of content:
+1. [Project Objective](#project-objective)
+2. [Tools Used](#tools-used)
+3. [Page One](#page-one---retail-analysis---home)
+4. [Page Two](#page-two---store-analysis)
+5. [Page Three](#page-three---brand-analysis)
+6. [Recommendations](#recommendations)
+   * [1.Focus on High-Performing Brands](#1focus-on-high-performing-brands)
+   * [2.Strategic Approach to Low-Performing Brands](#2strategic-approach-to-low-performing-brands)
+   * [3.Optimize Store Performance](#3optimize-store-performance)
+   * [4.Enhance Customer Engagement for Mainstream Category](#4enhance-customer-engagement-for-mainstream-category)
+   * [5.Seasonal Sales Opportunities](#5seasonal-sales-opportunities)
+7. [Footer](#dont-forget-to-give-a-start-to-this-project-because-its-motivate-me-and-also-please-follow-me-on-linkeldin-and-please-consider-me-for-any-internship-or-entry-level-data-analyst-role-i-need-a-job-or-internship-even-thought-its-a-free-or-paid-thanks-in-advance)
+
 
 ### Project Objective:
+ [🔁Home](#table-of-content)
+
 The primary goal of this project is to assess the effectiveness of a store trial conducted in stores 77, 86, and 88. The analysis will be centered around the monthly sales performance of each store, focusing on key metrics such as total sales revenue, total number of customers, and average number of transactions per customer.
 
 ### Tools Used:
@@ -10,6 +28,7 @@ Power BI and Excel: Power BI is the primary tool for data analysis, while Excel 
 ## Project Structure:
 
 ### Page One - Retail Analysis - Home 
+ [🔁Home](#table-of-content)
 
 ![t2](https://github.com/user-saddam123/Quantium-Virtual-Internship-Task-2/assets/123800896/df911788-caa7-4c64-a0bc-8a841fa1c6f9)
 
@@ -60,6 +79,7 @@ Highlighting sales trends, with December and March recording the highest sales (
 #
 
 ##  Page Two - Store Analysis
+ [🔁Home](#table-of-content)
 
 ![t3](https://github.com/user-saddam123/Quantium-Virtual-Internship-Task-2/assets/123800896/c5712cd9-3a3b-4974-bf74-7a7e7eb077a5)
 
@@ -92,7 +112,9 @@ Tabular representation of total sales, total product quantity sold, transactions
 #
 #
 
-## #Page Three - Brand Analysis
+## Page Three - Brand Analysis
+
+[🔁Home](#table-of-content)
 
 ![t4](https://github.com/user-saddam123/Quantium-Virtual-Internship-Task-2/assets/123800896/fb85a22e-3f5f-452c-852f-b99aa8b822e4)
 
@@ -119,6 +141,7 @@ A tabular format presenting brand-wise analysis of metrics such as quantity sold
 #
 
 ## Recommendations 
+ [🔁Home](#table-of-content)
 
 ### 1.Focus on High-Performing Brands:
 
@@ -141,7 +164,8 @@ The analysis highlights significant sales from the mainstream customer category 
 Recognize the seasonality in sales, with December and March recording the highest sales figures. Leverage this insight to plan and implement targeted seasonal promotions, product launches, or advertising campaigns during peak months. Additionally, explore strategies to mitigate the sales dip observed in February, potentially through special promotions or events to boost consumer engagement.
 
 These recommendations aim to provide actionable insights for the organization, enabling strategic decision-making and fostering continuous improvement in store performance and brand management. Regular monitoring and adaptation of strategies based on changing market dynamics will be essential for long-term success.
-
+ 
+[🔁Home](#table-of-content)
 #
 #### Don't forget to give a start to this project because its motivate me and also please follow me on [Linkeldin](https://www.linkedin.com/in/saddam-ansari-dataanalyst). and Please consider me for any internship or entry level data analyst role. I need a job or internship even thought its a free or paid. Thanks in Advance.
 #
