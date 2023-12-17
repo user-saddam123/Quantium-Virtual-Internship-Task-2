@@ -1,6 +1,6 @@
 # Quantium-Virtual-Internship-Task-2
 ## Presented and Analyze by- Saddam Ansari @Aspiring Data Analyst [Linkeldin](https://www.linkedin.com/in/saddam-ansari-dataanalyst)
-## Live Dashboard at novypro [Novypro_Link](www.novypro.com)
+## Live Dashboard at novypro [Novypro_Link](https://www.novypro.com/project/retail-strategy-and-analytics---quantium-virtual-internships-task-two-by--saddam-ansari)
 
 ## Table of content:
 1. [Project Objective](#project-objective)
